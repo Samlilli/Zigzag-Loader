@@ -10,3 +10,4 @@ Use the Sass file to customise the loader. The variables include:
   $stick_length: 30px; //Changes length of all sticks
   $stick_distance: -8px; //Changes distance between sticks (will need editing after 32px)
 ```
+All the loaders are open source as long as the references to me are kept in the css file. Enjoy! 
